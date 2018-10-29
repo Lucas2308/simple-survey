@@ -1,6 +1,6 @@
-# Simple Survey application 
+# Simple Survey Application 
 
-Its getting called from  score.js 
+Its getting called from score.js 
 
 node score.js 
 
